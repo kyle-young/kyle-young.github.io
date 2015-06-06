@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Kyle Young
-tagline:          ''
+tagline:          'Personal Website'
 description:      'Hi!  Welcome to my personal website.'
 url:              http://kyle-young.github.io
 baseurl:          /
