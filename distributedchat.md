@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Distributed Chat System 
 ---
 
 <p class="message">
