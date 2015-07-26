@@ -3,9 +3,6 @@ layout: page
 title: Courses
 ---
 
-<p class="message">
-  Here's all of the courses I've done so far!
-</p>
 
 ---
 
