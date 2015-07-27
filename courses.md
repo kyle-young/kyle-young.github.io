@@ -6,7 +6,7 @@ title: Courses
 
 ---
 
-> **1st Year**
+**<div align="center">1st Year</div>** 
 
 <table>
   <thead>
@@ -41,7 +41,8 @@ title: Courses
 
 ----
 
-> **2nd Year**
+
+**<div align="center">2nd Year</div>**
 
 <table>
   <thead>
@@ -57,7 +58,7 @@ title: Courses
       <td>Algorithms & Abstract Data Types</td>
       <td>Computer Systems & Assembly Language</td>
       <td>Mobile Applications Development</td>
-      <td>Cultural Anthropolog</td>
+      <td>Cultural Anthropoloy</td>
     </tr>
     <tr>
       <td>Data Analysis & Visualization</td>
@@ -76,7 +77,8 @@ title: Courses
 
 ----
 
-> **3rd Year**
+**<div align="center">3rd Year</div>**
+
 
 <table>
   <thead>
