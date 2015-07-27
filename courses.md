@@ -6,7 +6,7 @@ title: Courses
 
 ---
 
-**<div align="center">1st Year</div>** 
+<div align="center" style="font-weight:bold">1st Year</div>
 
 <table>
   <thead>
@@ -41,8 +41,7 @@ title: Courses
 
 ----
 
-
-**<div align="center">2nd Year</div>**
+<div align="center" style="font-weight:bold">2nd Year</div>
 
 <table>
   <thead>
@@ -58,7 +57,7 @@ title: Courses
       <td>Algorithms & Abstract Data Types</td>
       <td>Computer Systems & Assembly Language</td>
       <td>Mobile Applications Development</td>
-      <td>Cultural Anthropoloy</td>
+      <td>Cultural Anthropology</td>
     </tr>
     <tr>
       <td>Data Analysis & Visualization</td>
@@ -77,8 +76,7 @@ title: Courses
 
 ----
 
-**<div align="center">3rd Year</div>**
-
+<div align="center" style="font-weight:bold">3rd Year</div>
 
 <table>
   <thead>
