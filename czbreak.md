@@ -1,4 +1,4 @@
 ---
-layout: czbreak
+layout: page 
 title: <HR> 
 ---
