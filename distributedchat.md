@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Distributed Chat System 
+title: Distributed Chat System (WIP)
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Source code will be available at  <a href="https://github.com/kyle-young/distributedchat" target="_blank" title="distirbutedchatlink">github.com/kyle-young/distributedchat</a>.  This page will be used to outline the project once I'm done.
 </p>
 
